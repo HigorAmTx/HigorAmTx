@@ -16,7 +16,7 @@ Atualmente, estou em busca da minha primeira oportunidade profissional na área 
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Principais Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -79,8 +79,7 @@ Atualmente, estou em busca da minha primeira oportunidade profissional na área 
 ## 📫 Contato
 
 - ✉️ Email: o.amorim.higor@gmail.com
-- 💼 [LinkedIn](www.linkedin.com/in/higor-amtx)
-- 🌐 [Portfólio](https://github.com/HigorAmTx/presentation)
+- 💼 [LinkedIn](https://www.linkedin.com/in/higor-amtx/)
 
 ---
 
